@@ -1,0 +1,5 @@
+CREATE TABLE "BirthdayList" (
+    Birthday TEXT,
+    ID       INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name     TEXT
+);
